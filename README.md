@@ -2,7 +2,7 @@
  Mod Spawns all players on Jug side. 
  ## Download & Run
  - Navigate to your BO1 directory and backup your "zombie_cod5_asylum_patch.ff" and "common_zombie_patch.ff" files in Call of Duty BlackOps/zone.   
- - Follow this [mod download link](https://uoguelphca-my.sharepoint.com/:f:/g/personal/mbahgat_uoguelph_ca/Evsxk1Ryh4FOiTerk1VwV_gBo5fsDgCljdeO8mIzrAq8VA?e=BQUt3o).
+ - Follow this [mod download link](https://drive.google.com/drive/folders/1SCdiikgXu5emd5O73bJFlcRntLa2LzGT?usp=sharing).
  - Unzip the downloaded folder.
  - Copy the "zombie_cod5_asylum_patch.ff" and "common_zombie_patch.ff" files into the zone folder in your game's directory. 
  - You're set to play Jug side, up to 4 players!
